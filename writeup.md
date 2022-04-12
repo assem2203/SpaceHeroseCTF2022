@@ -12,6 +12,6 @@ ______________
 flag hint : (None)
 ```
  sorce: 100
- flag: shctf{L0g1c-i$-th3-begiNNing-0f-wi$doM}
- solve : Open pcap in wireshark. You find different one string while checking ping. And you Base64 decoding after combine all different string.
+ flag : shctf{L0g1c-i$-th3-begiNNing-0f-wi$doM}
+ solve: Open pcap in wireshark. You find different one string while checking ping. And you Base64 decoding after combine all different string.
 ```
